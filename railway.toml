@@ -1,0 +1,7 @@
+[build]
+
+[deploy]
+startCommand = "node bot.js"
+
+[variables]
+YOUTUBE_DL_SKIP_PYTHON_CHECK = "1"
